@@ -1,7 +1,9 @@
 # slatesplicer
 Tufts Polyhack 2017
 
+
 FindSlate.java
+
 java FindSlate <input> <sensitivity> <range>
 * input: an audio file in .wav format
 * sensitivity: a floating point value. Determines the margin by which a new peak
